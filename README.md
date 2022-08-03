@@ -70,7 +70,7 @@ The following options are available:
   - *White numbers*: tick this box to draw labels in white. If unticked, the labels will be drawn using the objects' tag value.
 * ***ResultsTable parameters***:
   - *Store results within a table named after the image (macro friendly)*: the results are logged to a results table named "Results", unless this box is ticked: the table's name is then "Statistics for "+the image's title. This option makes it easier within a macro to select the corresponding results window for further processing.
-  - ***Redirect to***: this option allows to do the segmentation on the current image while intensity related measures will be calculated from the image chosen using the drop-down list.
+* ***Redirect to***: this option allows to do the segmentation on the current image while intensity related measures will be calculated from the image chosen using the drop-down list.
 2. Validate the choices by clicking on Ok: the options will be saved in the IJ_Prefs.txt file, to be used later during the analysis.
 
 ## Launching the analysis
