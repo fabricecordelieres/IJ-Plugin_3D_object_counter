@@ -103,3 +103,7 @@ The following options are available:
 ## How to cite the plugin ?
 
 When using the "3D Object Counter" plugin for publication, please refer to [S. Bolte & F. P. Cordelières, A guided tour into subcellular colocalization analysis in light microscopy, Journal of Microscopy, Volume 224, Issue 3: 213-232.](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2818.2006.01706.x), to this [GitHub Repository](https://github.com/fabricecordelieres/IJ-Plugin_3D_object_counter/) and of course to ImageJ, as explained in the [FAQ section, on ImageJ's website](http://rsbweb.nih.gov/ij/docs/faqs.html). A copy of your paper being sent to [my e-mail address](mailto:fabrice.cordelieres@gmail.com) would also be greatly appreciated !
+
+# Versions
+## 2007/11/07: Version 2
+This is a 2022 upload of the original 2007 code.
