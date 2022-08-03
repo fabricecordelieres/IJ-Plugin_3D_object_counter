@@ -4,7 +4,7 @@
 
 1. Download and install the latest version of [ImageJ](http://rsbweb.nih.gov/ij/download.html).
 2. Update ImageJ using the "Help/Update ImageJ" menu.
-3. Download the latest version of [3D object counter](https://github.com/fabricecordelieres/IJ-Plugin_3D_object_counter/releases).
+3. Download the latest version of [3D object counter](https://github.com/fabricecordelieres/IJ-Plugin_3D_object_counter/releases/tag/v2.0#:~:text=3-,_3D%2DOC.jar,-52.9%20KB).
 4. Drag and drop the plugin file on ImageJ's toolbar.
 5. Using the "Save Dialog", save the file in the plugin folder.
 
