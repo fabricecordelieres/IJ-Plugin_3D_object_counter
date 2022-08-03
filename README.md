@@ -59,7 +59,7 @@ A ***3D object counter*** entry should appear now under the ImageJ's plugins men
 </p>
 
 The following options are available:
-* ***Parameters to calculate***: tick the parameters that should be calculated for each found object (see [this section](what-does-it-do-)for more details).
+* ***Parameters to calculate***: tick the parameters that should be calculated for each found object (see [this section](#what-does-it-do-) for more details).
 * ***Image parameters***:
   - *Close original images while processing (saves memory)*: when this option is ticked, the original image is closed at analysis startup.
   - *Show masked image (redirection required)*: if a redirection has been set (see below), ticking this box will enable the generation of a new image where only objects' pixels from the destination of redirection will be drawn. Background pixels will appear as black.
